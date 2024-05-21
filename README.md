@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1039948457508610059/1167299546628497418/Emily.png?ex=654d9f6b&is=653b2a6b&hm=3c070512a40d322167227176ee9c08bf1895610e2e1f8502319b27edf5198a38&"/>
+<img src="[https://cdn.discordapp.com/attachments/1039948457508610059/1167299546628497418/Emily.png?ex=654d9f6b&is=653b2a6b&hm=3c070512a40d322167227176ee9c08bf1895610e2e1f8502319b27edf5198a38&](https://cdn.discordapp.com/attachments/966004692985475183/1176632425951019068/1.png?ex=664e60d7&is=664d0f57&hm=6015ef8b26abd663fce49196fcb4e3f1f80b0e88b0df9515000dd5a0c42f7e29&)"/>
 <h1 align="center">Hola 👋, Soy Emily!</h1>
 <h3 align="center">Desarrolladora Frontend 👩‍💻</h3>
 
