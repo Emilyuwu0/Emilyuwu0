@@ -1,12 +1,12 @@
 <img src="https://cdn.discordapp.com/attachments/966004692985475183/1242623771773239327/4bfd1a7f0d9ae87669996a03074e9e8b.gif?ex=664e8312&is=664d3192&hm=0ff24751609393b1c95e619a7b508aa04eb8d3d22ba30ed0ab6c19dfc3472d22&" width="50%" height="50%" align="center"/>
 <h1 align="center">Hola 👋, Soy Emily!</h1>
-<h3 align="center">Desarrolladora Frontend 👩‍💻</h3>
+<h3 align="center">Desarrolladora Frontend | Ux | Ui 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyuwu0&label=Profile%20views&color=0e75b6&style=flat" alt="emilyuwu0" /> </p>
 
 - 💜 Discord [undefined.name](undefined.name)
 
-- 📫 Correo **tbarrera679@gmail.com**
+- 📫 Correo **imemilyorduz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
