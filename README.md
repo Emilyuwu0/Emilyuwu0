@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyuwu0&label=Profile%20views&color=0e75b6&style=flat" alt="emilyuwu0" /> </p>
 
-- 💜 Discord [undefined.name](undefined.name)
-
-- 📫 Correo **imemilyorduz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
